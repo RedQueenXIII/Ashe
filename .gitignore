@@ -1,0 +1,3 @@
+# Ignorar todas as pastas pesadas 
+node_modules 
+terraform/.terraform
