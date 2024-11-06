@@ -47,7 +47,7 @@ MongoDB Atlas Account
 
 Clone the repository:
 
-git clone https://github.com/yourusername/todo-app-devops.git
+git clone https://github.com/RedQueenXIII/Ashe.git
 
 cd todo-app-DevOps
 
